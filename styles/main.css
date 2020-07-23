@@ -1,0 +1,26 @@
+:root{
+    --title-color:#6176B8;
+    --primary-color:#2B2C61;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: #f0f0f5;
+    -webkit-font-smoothing: antialiased;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1{
+    color:var(--primary-color);
+}
+h2{
+    color: var(--title-color);
+}

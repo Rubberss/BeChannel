@@ -1,0 +1,97 @@
+#page-create-account{
+    width: 90%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+#page-create-account header{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+#page-create-account header a{
+    color: var(--title-color);
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+}
+
+form legend{
+    margin: 10px auto;
+}
+
+form legend h2{
+    font-size: 24px;
+}
+
+form label{
+    font-size: 16px;
+    margin: 5px;
+}
+
+form{
+    background-color: white;
+    margin: 60px auto;
+    padding: 64px;
+    
+    border-radius: 8px;
+
+    max-width: 730px;
+}
+
+form fieldset{
+    margin-top: 64px;
+    border: 0;
+}
+
+form .field{
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-bottom: 24px;
+}
+
+form .field-group{
+    /**/
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+
+}
+
+form input,
+form select {
+    width: 100%;
+    background-color: #f0f0f5;
+    box-sizing: border-box;
+    padding: 8px 10px;
+    font-size: 12px;
+    outline: none;
+    border-radius: 4px;
+    border: 0;
+}
+
+#button{
+   text-align: center;
+}
+#button .btn{
+    width: 260px;
+    height: 50px;
+    background-color: var(--primary-color);
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+    font-size: 14px;
+    border: 0;
+    margin-top: 10px;
+}
+
+form select{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+}
+
+
