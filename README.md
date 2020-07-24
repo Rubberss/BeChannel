@@ -46,6 +46,6 @@ Este é um diagrama de contêiner do sistema BChannel fictício. Ele mostra que 
 - Repositório: https://github.com/LeonardoJacauna/BeChannel
 
 ## Questões
-
+Respostas da questões: https://github.com/LeonardoJacauna/BeChannel/blob/master/Questoes.txt
 ## Autor
 **Leonardo Jacaúna**
