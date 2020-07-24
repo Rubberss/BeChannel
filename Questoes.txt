@@ -1,0 +1,24 @@
+Questões
+
+1. A solução deve ser disponibilizada em Cloud ou On-premise?
+
+- Acredito que a melhor opção de disponibilização é em Cloud, se analisados os custos e a escalabidade de equipamentos.
+Se tratando dos dados, é uma forma mais segura e de retorno satisfatório para o usuário e para a empresa.
+
+2. Considerando a participação de 4 pessoas técnicas para o desenvolvimento dessa solução, 
+responda qual ferramenta acreditas ser apropriada para o controle de tarefas da equipe, a ferramenta é ágil?
+
+- A ferramenta apropriada em neste caso, pode ser, o Trello. Tendo em vista que o mesmo é uma ferramenta baseada no 
+Kanban, que é uma metodologia ágil.
+
+3. Você se sente capaz de liderar esta equipe? Por quê?
+
+- Sim. Sinto-me capaz. Pois estou preparado e entendido sobre o assunto, e assim posso colaborar ainda mais com a equipe.
+
+4. Se pudesse sugerir uma melhoria, mudança ou oportunidade. O que seria?
+
+- Invertir mais em novas tecnologias, que facilite o atendimento da empresa com o cliente e que melhore o relacionamento do cliente com a empresa.
+
+5. Acha válido esse desafio para o processo que está participando?
+
+- Sim, é muito válido. Pois assim temos um noção do que a empresa espera que possamos oferecer e assim colaborar com a mesma.
